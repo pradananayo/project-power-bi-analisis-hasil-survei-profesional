@@ -24,7 +24,7 @@ Dashboard ini menyajikan berbagai insight seperti:
 
 ## Preview Dashboard
 
-![Dashboard Preview](Assets/Dashboard Preview.pdf)
+![Dashboard Preview](Assets/Dashboard Preview.jpg)
 
 ## Cara Membuka
 
