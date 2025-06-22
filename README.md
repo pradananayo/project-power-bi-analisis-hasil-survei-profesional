@@ -17,6 +17,15 @@ Dashboard ini menyajikan berbagai insight seperti:
 - Kombinasi chart: bar, donut, KPI gauge
 - Layout bersih dan mudah dieksplorasi
 
+## Transformasi Data
+
+Sebelum dilakukan visualisasi, data mengalami beberapa proses transformasi dan pembersihan, di antaranya:
+
+- Menghitung rata-rata gaji (Average Salary) berdasarkan jabatan
+- Menggunakan Split Column 
+
+Proses transformasi dilakukan menggunakan fitur **Power Query Editor** dan **DAX** di Power BI Desktop.
+
 ## Tools yang Digunakan
 
 - Power BI Desktop
@@ -30,7 +39,7 @@ Dashboard ini menyajikan berbagai insight seperti:
 
 1. Clone atau download repository ini
 2. Buka file `.pbix` menggunakan **Power BI Desktop**
-   
+
 ## Sumber Data
 
 Dataset diambil dari repository GitHub [Alex The Analyst - Power BI Final Project](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx).
