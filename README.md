@@ -20,7 +20,7 @@ Dashboard ini menyajikan berbagai insight seperti:
 ## Tools yang Digunakan
 
 - Power BI Desktop
-- Dataset hasil survei profesional (Power BI Final Project.xlsx)
+- Dataset hasil survei profesional (Data Survei.xlsx)
 
 ## Preview Dashboard
 
